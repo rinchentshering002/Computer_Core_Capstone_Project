@@ -1,0 +1,19 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Save files
+savegame.json
+
+# Build outputs (regenerate with build.ps1)
+build/
+build.ps1
+
+# Backups
+assets_original/
+assets_original_full/
+assets_optimized/
+
+# Zips
+*.zip
